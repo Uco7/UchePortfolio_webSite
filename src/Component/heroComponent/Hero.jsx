@@ -90,6 +90,12 @@ export default function Hero() {
               <a className="btn btn-ghost" href="#contact">
                 Get in touch
               </a>
+              <a className="btn btn-ghost" href="/public/Uche_Emmanuel_Innocent_CV_intanational.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                View Cv
+              </a>
             </div>
           </div>
         </div>
