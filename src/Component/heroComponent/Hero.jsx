@@ -3,10 +3,11 @@ import '../../css/App.css'
 import photo from '../../assets/mypic.jpg'
 
 const ROLE_LINES = [
-  'building AI-powered apps',
-  'integrating LLMs into products',
-  'shipping React & React Native',
-  'designing scalable REST APIs',
+  'Building And Integrating AI-Powered Applications',
+  'Designing Scalable REST APIs',
+  'Developing Cross-Platform Mobile Apps',
+  'Integrating AI Into Real-World Products',
+  'Building Production-Ready Systems'
 ]
 
 const PHOTO_SRC = photo
@@ -78,11 +79,8 @@ export default function Hero() {
             </p>
 
             <p className="hero-summary col">
-              Full-Stack & AI Developer with 5+ years of experience building
-              scalable web and mobile applications — from AI-powered tools
-              and booking platforms to digital libraries and
-              payment-driven systems, using React, React Native, Node.js,
-              and AWS.
+              Full-Stack Developer | AI Integration Engineer with 5+ years of experience building scalable web and mobile applications using React, React Native, Node.js, Express, MongoDB, and modern cloud technologies. Experienced in AI integration, REST API development, cloud deployment with AWS, Docker, Render, and Cloudflare Pages,
+               with a strong focus on building reliable, production-ready applications.
             </p>
 
             <div className="hero-actions">

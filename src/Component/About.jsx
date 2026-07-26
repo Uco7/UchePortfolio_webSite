@@ -23,21 +23,17 @@ export default function About() {
           <div className="about-copy col">
             <h2>I build software that thinks a little, and works a lot.</h2>
             <p className="text-muted">
-              I'm a Full-Stack & AI Developer with over 5 years of
+              I'm a Full-Stack Developer | AI Integration Engineer with over 5 years of
               experience designing and shipping scalable web and mobile
               applications. My work spans AI-powered tools, transactional
-              systems, booking platforms, and digital libraries — built
-              with React, React Native, Node.js, Express, MongoDB, and
-              AWS. I spend a lot of time integrating LLMs (OpenAI,
-              Gemini) and AI APIs into real products, not just demos.
+              systems, booking platforms, and digital libraries — built 
+              with React, React Native, Next.js, Node.js, Express, MongoDB, Docker, and AWS. 
+              I specialize in integrating Large Language Models (LLMs) such as OpenAI and Gemini into production-ready applications, 
+              creating intelligent features that improve automation, user experience, and business workflows.
             </p>
             <p className="text-muted">
-              Currently a Software Developer at Goodisoft Technology,
-              building React Native apps and AI-assisted automation for
-              enterprise workflows, while also taking on freelance
-              full-stack and AI projects — from secure payment systems
-              with Paystack to custom backend architecture deployed on
-              AWS.
+             I completed my Industrial Training (IT) at Goodisoft Technology, where I contributed to React Native applications and AI-assisted automation for enterprise workflows. Alongside this experience, I've continued building freelance and personal full-stack projects, including secure payment 
+             systems with Paystack and backend architectures deployed on AWS, Render, and Cloudflare Pages.
             </p>
           </div>
 
