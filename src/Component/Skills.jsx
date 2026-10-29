@@ -7,22 +7,29 @@ const SKILL_GROUPS = [
   {
     key: 'languages',
     label: 'languages',
-    items: ['JavaScript', 'TypeScript', 'Vite', 'SQL'],
+    items: ['JavaScript', 'HTML5', 'CSS3', 'SQL'],
   },
   {
     key: 'frontend',
     label: 'frontend',
-    items: ['React', 'React Native', 'HTML5', 'CSS', ],
+    items: ['React', 'React Native (Expo)', 'Next.js', 'Vite', ],
   },
   {
     key: 'backend',
     label: 'backend',
-    items: ['Node.js', 'Express', 'MongoDB', 'REST API'],
+    items: ['Node.js', 'Express', 'MongoDB & Mongoose', 'REST API Design', 'JWT Authentication'],
   },
   {
-    key: 'tooling',
-    label: 'tooling',
-    items: ['Git', 'Docker', 'AWS', 'CI/CD'],
+    key: 'Cloud & DevOps',
+    label: 'Cloud & DevOps',
+    items: ['Git & GitHub', 'Docker', 'AWS (EC2, S3, VPC)','Render (and more)','Cloudflare Pages', 'CI/CD'],
+  },
+  {
+    key: 'AI & Integrations',
+    label: 'AI & Integrations',
+    items: ['OpenAI API', 'Gemini API', 'Prompt Engineering',
+      'AI Integration','Google AdMob', 'Paystack','Google AdSense',
+      'SEO (Search Engine Optimization)'],
   },
 ]
 

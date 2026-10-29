@@ -2,12 +2,12 @@ import { useState } from 'react'
 import { useReveal } from '../hook/useReveal'
 import "../css/App.css"
 
-const MY_EMAIL = 'ucheuc070@gmail.com'
+const MY_EMAIL = 'ucheinnocent070@gmail.com'
 
 const SOCIALS = [
   { label: 'email:', value: MY_EMAIL, href: `mailto:${MY_EMAIL}` },
-  { label: 'github:', value: 'github.com/jordancole', href: 'https://github.com' },
-  { label: 'linkedin:', value: 'linkedin.com/in/jordancole', href: 'https://linkedin.com' },
+  { label: 'github:', value: 'https://github.com/Uco7', href: 'https://github.com/Uco7' },
+  { label: 'linkedin:', value: 'https://www.linkedin.com/in/uche-innocent-60741624b/', href: 'https://www.linkedin.com/in/uche-innocent-60741624b/' },
 ]
 
 export default function Contact() {
@@ -73,7 +73,7 @@ export default function Contact() {
                 required
                 value={form.name}
                 onChange={handleChange}
-                placeholder="Ada Lovelace"
+                placeholder="Your Name"
               />
             </label>
 
@@ -85,7 +85,7 @@ export default function Contact() {
                 required
                 value={form.email}
                 onChange={handleChange}
-                placeholder="you@example.com"
+                placeholder="Your Email"
               />
             </label>
 
@@ -97,7 +97,7 @@ export default function Contact() {
                 required
                 value={form.message}
                 onChange={handleChange}
-                placeholder="What are you working on?"
+                placeholder="Tell me about your project..."
               />
             </label>
 

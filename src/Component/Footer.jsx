@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="section-inner footer-inner">
         <p className="mono text-muted">
-          © {new Date().getFullYear()} Jordan Cole
+          © {new Date().getFullYear()}  Uche Emmanuel Innocent
         </p>
         <p className="mono text-muted">built with React</p>
       </div>

@@ -12,7 +12,7 @@ export default function Nav() {
   return (
     <nav className="nav">
       <a className="nav-logo mono" href="#top">
-        jc<span className="nav-logo-dot">.</span>
+       Uche Emmanuel Innocent<span className="nav-logo-dot">.</span>
       </a>
       <ul className="nav-links">
         {LINKS.map((link) => (
