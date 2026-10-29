@@ -4,7 +4,51 @@ import "../css/App.css"
 
 const PROJECTS = [
   {
-    id: 'project-01',
+  id: 'project-01',
+  name: "Trackify: Smart Student Finance Platform",
+  type: "web",
+  description:
+    "A full-stack campus financial management application engineered as a Computer Science framework to resolve student budgeting stress. The system allows users to track structured transaction ledgers, categorize allocations, analyze cashflows via dynamic charting modules, and configure automated live threshold alerts to actively prevent impulse spending leaks.",
+  stack: [
+    "HTML5",
+    "CSS3",
+    // "Tailwind CSS",
+    "JavaScript (ES6+)",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "Chart.js",
+    "Git & GitHub"
+  ],
+  link: 'https://trackify-student-finance.onrender.com',
+  repo: 'https://github.com',
+},
+{
+  id: 'project-02',
+  name: "LiteAcad: Virtual Learning Management & CBT Platform",
+  type: "web",
+  description:
+    "A full-stack e-learning and computer-based testing (CBT) platform featuring an interactive student workspace dashboard. The system enables users to track learning progress metrics, resume structured course tracks dynamically, manage lesson completions, and execute real-time automated CBT assessments with detailed analytics and automated scoring modules.",
+  stack: [
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "JavaScript (ES6+)",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "JWT Authentication",
+    "Git & GitHub"
+  ],
+  link: 'https://onrender.com',
+  repo: 'https://github.com',
+},
+
+
+  {
+    id: 'project-03',
    name: " Web Base Student Result Upload Complaint System",
 type: "web",
 description:
@@ -25,7 +69,7 @@ stack: [
     repo: 'https://github.com/Uco7/web-based_studentsEsult_upload_complaint_system/tree/master',
   },
   {
-    id: 'project-02',
+    id: 'project-04',
    name: "Hospital Record System",
 type: "web",
 description:
@@ -46,7 +90,7 @@ stack: [
     repo: 'https://github.com/Uco7/Web_based_hospital_record_system',
   },
   {
-    id: 'project-03',
+    id: 'project-05',
    name: "Online Workers Connect",
 type: "web",
 description:
@@ -67,7 +111,7 @@ stack: [
     repo: 'https://github.com/Uco7/professional_workers_connect/tree/main',
   },
   {
-    id: 'project-04',
+    id: 'project-06',
 name: "Hall Allocation System",
 type: "web",
 description:
@@ -88,7 +132,7 @@ stack: [
     repo: 'https://github.com/Uco7/hall_allocation_system',
   },
   {
-    id: 'project-04',
+    id: 'project-07',
     name: 'Bookstore  App',
     type: 'mobile',
     description:"Developed a full-stack cross-platform digital bookstore and library application that enables users to discover, purchase, read, and manage digital books. Built with React Native, Node.js, Express.js, and MongoDB, the app features secure authentication, Paystack payment integration, Google AdMob monetization, AI-powered features, push notifications, PDF management, and a scalable RESTful API backend.",
@@ -113,7 +157,7 @@ stack: [
     repo: 'https://github.com/Uco7/testBookStoreApp/tree/recovery',
   },
   {
-    id: 'project-05',
+    id: 'project-08',
     name: 'Document Processing App',
     type: 'mobile',
     description:
