@@ -21,7 +21,7 @@ const PROJECTS = [
     "Chart.js",
     "Git & GitHub"
   ],
-  link: 'https://trackify-student-finance.onrender.com',
+  link: 'https://trackify-kmfy.onrender.com/',
   repo: 'https://github.com',
 },
 {
@@ -42,7 +42,7 @@ const PROJECTS = [
     "JWT Authentication",
     "Git & GitHub"
   ],
-  link: 'https://onrender.com',
+  link: 'https://course-app-cuhq.onrender.com/account/dashboard',
   repo: 'https://github.com',
 },
 
