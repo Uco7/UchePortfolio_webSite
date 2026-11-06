@@ -175,6 +175,23 @@ stack: [
     link: '#',
     repo: '#',
   },
+  {
+  id: 'project-09',
+  name: 'KeepCodeIn',
+  type: 'web',
+  description:
+    'A modern React web application built with a production-ready Docker deployment workflow, using Nginx to serve optimized production assets.',
+  stack: [
+    'React',
+    'JavaScript (ES6+)',
+    'React Router',
+    'Docker',
+    'Nginx',
+    'Git & GitHub',
+  ],
+  link: 'https://interviewprojectassessment.onrender.com/',
+  repo: 'https://github.com/Uco7/interviewProjectAssessment',
+},
 ]
 
 // Small inline icons — no extra icon library needed.
